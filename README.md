@@ -13,7 +13,8 @@
 
 ![alt 就是这样啊](https://github.com/joey998/yunding/blob/main/images/po.jpg?raw=true)
 
-2. 因为需要<em>管理员权限</em>，所以请使用管理员权限打开cmd或者powerShell，或者bash，管理员权限就行（终端请不要挡住`寻找对局`的按钮），然后输入以下三条命令
+2. 因为需要***管理员权限***，所以请使用管理员权限打开cmd或者powerShell，或者bash，管理员权限就行（终端请不要挡住`寻找对局`的按钮），然后输入以下三条命令
+强调一下，要管理员权限
 ```
 npm install --global --production windows-build-tools
 npm install
