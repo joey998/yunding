@@ -10,10 +10,10 @@
 打开客户端之后不要动客户端，默认客户端是居中的。
 进入到云顶之弈寻找对局页面。
 所以，应该是下面这样的
-![alt 就是这样啊](图片地址)
 
-2. 因为需要<font color="right">管理员权限</font>，所以请使用管理员权限打开cmd或者powerShell，或者bash，管理员权限就行，输入以下三条命令
-请不要挡住`寻找对局`的按钮
+![alt 就是这样啊](https://github.com/joey998/yunding/blob/main/images/po.jpg?raw=true)
+
+2. 因为需要<em>管理员权限</em>，所以请使用管理员权限打开cmd或者powerShell，或者bash，管理员权限就行（终端请不要挡住`寻找对局`的按钮），然后输入以下三条命令
 ```
 npm install --global --production windows-build-tools
 npm install
