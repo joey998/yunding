@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "云顶之弈-自动挂机（默认18分钟一局）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joey998/yunding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joey998/yunding/issues"
+  },
+  "homepage": "https://github.com/joey998/yunding#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
