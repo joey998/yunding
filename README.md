@@ -11,7 +11,7 @@
 进入到云顶之弈寻找对局页面。
 所以，应该是下面这样的
 
-![alt 就是这样啊](https://github.com/joey998/yunding/blob/main/images/po.jpg?raw=true)
+![alt 就是这样啊](./images/po.jpg)
 
 2. 因为需要***管理员权限***，所以请使用管理员权限打开cmd或者powerShell，或者bash，管理员权限就行（终端请不要挡住`寻找对局`的按钮），然后输入以下三条命令
 
