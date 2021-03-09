@@ -17,8 +17,8 @@
 
 强调一下，要管理员权限
 ```
-npm install --global --production windows-build-tools
-npm install
+npm install --global --production windows-build-tools --registry https://registry.npm.taobao.org
+npm install --registry https://registry.npm.taobao.org
 npm run play
 ```
 
